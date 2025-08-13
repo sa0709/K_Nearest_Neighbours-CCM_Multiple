@@ -1,7 +1,6 @@
 # import relevant libraries
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
 from sklearn.neighbors import KNeighborsRegressor
 from sklearn.preprocessing import StandardScaler
 
